@@ -1,2 +1,2 @@
 
-![finished project](completed.png)
+![finished project](./completed.jpg)
